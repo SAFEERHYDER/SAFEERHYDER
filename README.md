@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SAFEERHYDER
 - 👀 I’m interested in Medical Ultrasound Image Optimization
-- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me ... iam.safeerhyder@gmail.com
 
 <!---
